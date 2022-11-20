@@ -87,10 +87,41 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 - [DevonCrawford](https://www.youtube.com/@DevonCrawford)
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="'Asta's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AstaDK&show_icons=true&hide_border=true" />
-</details>
+### <summary>:zap: Github Stats</summary>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=astadk&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=astadk&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?astadk=anuraghazra&show_icons=true" />
+</picture>
+
+<br />
+<br />
+
+---
+
+### <summary>:zap: Top languages</summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astadk&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
+
+---
+
+### <summary>Daily Dev Card</summary>
+
+<a href="https://app.daily.dev/AstaDK"><img src="https://api.daily.dev/devcards/d2b263a10a06431fb76eb8e32666ec01.png?r=yaw" width="400" alt="Asta_DK_520's Dev Card"/></a>
+
+<br />
+<br />
+
+---
 
 [website]: https://www.facebook.com/asta.nguyen.520/
 [linkedin]: https://www.linkedin.com/in/nghiepnguyen520/
@@ -126,4 +157,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [ReactNative]: https://reactnative.dev/
 [Ionic]: https://ionicframework.com/
 
-<a href="https://app.daily.dev/AstaDK"><img src="https://api.daily.dev/devcards/d2b263a10a06431fb76eb8e32666ec01.png?r=yaw" width="400" alt="Asta_DK_520's Dev Card"/></a>
+
