@@ -2,8 +2,8 @@
 
 ## I'm a Full Stack Web Developer and also enjoy developing Mobile Cross Platform applications.
 
-- 💻 I worked as a Full Stack Web Developer at [Digitech Solution][website]!
-- 💻 Now, I'm a software engineer at [NUS Technology][website]!
+- 💻 I worked as a Full Stack Web Developer at [VN Digitech Solution][Vndigitech]
+- 💻 Now, I'm a software engineer at [NUS Technology][Nus]
 - 🌱 I enjoy learning about everything. 🤣
 - 👯 I'd want to get experience from other developers.
 - 🥅 2022 Objectives: Be a better developer than last year. Learn additional technological skills.
@@ -158,5 +158,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [ReactNative]: https://reactnative.dev/
 [Ionic]: https://ionicframework.com/
 [Docker]: https://www.docker.com
+[Nus]: https://www.nustechnology.com/
+[Vndigitech]: https://vndigitech.com/en/
 
 
