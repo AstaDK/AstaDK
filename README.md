@@ -1,16 +1,12 @@
-### Hi there, I'm Nguyen Quoc Nghiep - Asta DK [NghiepNguyen520][website] 👋
+### I'm Nguyen Quoc Nghiep - Asta Nguyen [NghiepNguyen520][website] 👋
 
-## I'm a Full Stack Web Developer and also enjoy developing Mobile Cross Platform applications.
+👋 Greetings! I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at [VN Digitech Solution][Vndigitech], where I sharpened my skills in building robust and innovative web solutions. Presently, I'm an enthusiastic software engineer at [NUS Technology][Nus], continuously expanding my knowledge and proficiency.
 
-- 💻 I worked as a Full Stack Web Developer at [VN Digitech Solution][Vndigitech]
-- 💻 Now, I'm a software engineer at [NUS Technology][Nus]
-- 🌱 I enjoy learning about everything. 🤣
-- 👯 I'd want to get experience from other developers.
-- 🥅 2022 Objectives: Be a better developer than last year. Learn additional technological skills.
-- ⚡ Fun fact: I love to watch anime movies.
+If you're interested in discussing exciting development opportunities or simply want to connect with fellow developers, feel free to reach out! Let's embark on this journey of innovation and technology together.
 
-### Mp3 Playing 🎧
-[<img src="https://static-zmp3.zadn.vn/skins/common/logo600.png" alt="Asta Spotify Playing" width="350" />](https://zingmp3.vn/video-clip/Que-Huong-Viet-Nam-Anh-Khang-Suboi/ZWZ9DE6F.html)
+
+<!-- ### Mp3 Playing 🎧
+[<img src="https://static-zmp3.zadn.vn/skins/common/logo600.png" alt="Asta Spotify Playing" width="350" />](https://zingmp3.vn/video-clip/Que-Huong-Viet-Nam-Anh-Khang-Suboi/ZWZ9DE6F.html) -->
 
 ### Connect with me:
 [<img align="left" alt="facebook.com" width="40px" src="https://www.facebook.com/images/fb_icon_325x325.png" />][website]
