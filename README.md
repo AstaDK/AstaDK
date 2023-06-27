@@ -2,7 +2,7 @@
 👋 Greetings! I'm Nguyen Quoc Nghiep - Asta Nguyen
 </h1>
 
-<p align="center"> I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at [VN Digitech Solution][Vndigitech], where I sharpened my skills in building robust and innovative web solutions. Presently, I'm an enthusiastic software engineer at [NUS Technology][Nus], continuously expanding my knowledge and proficiency.<p>
+<p align="center"> I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at  <a href="https://vndigitech.com/en/">VN Digitech Solution</a>, where I sharpened my skills in building robust and innovative web solutions. Presently, I'm an enthusiastic software engineer at <a href="https://www.nustechnology.com/">NUS Technology</a>, continuously expanding my knowledge and proficiency.<p>
 
 <p align="center"> If you're interested in discussing exciting development opportunities or simply want to connect with fellow developers, feel free to reach out! Let's embark on this journey of innovation and technology together. </p>
 
@@ -11,14 +11,14 @@
 
 <div align="center">
 
-### Connect with me:
+### Connect with me
 
 [<img align="center" alt="facebook.com" width="40px" src="https://www.facebook.com/images/fb_icon_325x325.png" />][website]
 [<img align="center" alt="asta | LinkedIn" width="40px" src="https://sotaydoanhtri.com/wp-content/uploads/2019/11/Linked-Helper.png" />][linkedin]
 <br />
 <br />
 
-### Languages:
+### Languages
 
 [<img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
 [<img align="center" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][TYPESCRIPT]
@@ -30,7 +30,7 @@
 <br />
 <br />
 
-### Frameworks and libraries:
+### Frameworks and libraries
 
 [<img align="center" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][REACT]
 [<img align="center" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][Angular]
@@ -47,14 +47,14 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-### The editor that I like:
+### Editors
 
 [<img align="center" alt="Vim" width="40px" src="https://camo.githubusercontent.com/67d8d32acb9aa6ef50a036e831334c538cbdb5756d3d42b5bf378212c394c8c7/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3231313236322f323233373936332f32336562643565342d396264332d313165332d393136342d3262386165646165393032302e706e67" />][Nvim]
 [<img align="center" alt="VsCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />][Vscode]
 <br />
 <br />
 
-### Databases:
+### Databases
 
 [<img align="center" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 [<img align="center" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MYSQL]
@@ -63,7 +63,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-### Other tools:
+### Other Tools
 
 [<img align="center" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][Docker]
 [<img align="center" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][GIT]
@@ -73,7 +73,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-### Other Services:
+### Other Services
 
 [<img align="center" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][AWS]
 [<img align="center" alt="Google" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />][Google]
