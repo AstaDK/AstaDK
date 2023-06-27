@@ -75,7 +75,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 
 
----
+<!-- ---
 ### 📺 Several channels and articles to which I refer to learn technical
 
 - [WebDevSimplified](https://www.youtube.com/@WebDevSimplified)
@@ -86,7 +86,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 - [CodingGarden](https://www.youtube.com/@CodingGarden)
 - [Developedbyed](https://www.youtube.com/@developedbyed)
 - [DevonCrawford](https://www.youtube.com/@DevonCrawford)
----
+--- -->
 
 ### <summary>:zap: Github Stats</summary>
 
