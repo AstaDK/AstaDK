@@ -1,4 +1,4 @@
-### I'm Nguyen Quoc Nghiep - Asta Nguyen [NghiepNguyen520][website] 👋
+### I'm Nguyen Quoc Nghiep - Asta Nguyen
 
 👋 Greetings! I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at [VN Digitech Solution][Vndigitech], where I sharpened my skills in building robust and innovative web solutions. Presently, I'm an enthusiastic software engineer at [NUS Technology][Nus], continuously expanding my knowledge and proficiency.
 
@@ -84,9 +84,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 - [DevonCrawford](https://www.youtube.com/@DevonCrawford)
 --- -->
 
-### <summary>:zap: Github Stats</summary>
-
-<picture>
+<!-- ### <summary>:zap: Github Stats</summary> -->
+<!-- <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=astadk&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -96,7 +95,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?astadk=anuraghazra&show_icons=true" />
-</picture>
+</picture> -->
 
 <br />
 <br />
