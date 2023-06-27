@@ -1,8 +1,10 @@
-### I'm Nguyen Quoc Nghiep - Asta Nguyen
+<h1 align="center">
+👋 Greetings! I'm Nguyen Quoc Nghiep - Asta Nguyen
+</h1>
 
-👋 Greetings! I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at [VN Digitech Solution][Vndigitech], where I sharpened my skills in building robust and innovative web solutions. Presently, I'm an enthusiastic software engineer at [NUS Technology][Nus], continuously expanding my knowledge and proficiency.
+<p align="center"> I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at [VN Digitech Solution][Vndigitech], where I sharpened my skills in building robust and innovative web solutions. Presently, I'm an enthusiastic software engineer at [NUS Technology][Nus], continuously expanding my knowledge and proficiency.<p>
 
-If you're interested in discussing exciting development opportunities or simply want to connect with fellow developers, feel free to reach out! Let's embark on this journey of innovation and technology together.
+<p align="center"> If you're interested in discussing exciting development opportunities or simply want to connect with fellow developers, feel free to reach out! Let's embark on this journey of innovation and technology together. </p>
 
 <!-- ### Mp3 Playing 🎧
 [<img src="https://static-zmp3.zadn.vn/skins/common/logo600.png" alt="Asta Spotify Playing" width="350" />](https://zingmp3.vn/video-clip/Que-Huong-Viet-Nam-Anh-Khang-Suboi/ZWZ9DE6F.html) -->
@@ -35,13 +37,13 @@ If you're interested in discussing exciting development opportunities or simply 
 [<img align="center" alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][Vue]
 [<img align="center" alt="Nextjs" width="40px" src="https://ebudezain.com/compress/70/upload/images/image%28162%29.png?v=1.1.28" />][Nextjs]
 [<img align="center" alt="Expressjs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][Express]
-[<img align="center" alt="Nestjs" width="40px" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.IzZqdsWtWHs8NRRx_Vfy2HB5PMKb6Z-UcCq0fVg7-Xc" />][Nestjs]
+[<img align="center" alt="Nestjs" width="40px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />][Nestjs]
 [<img align="center" alt="Adonishs" width="40px" src="https://camo.githubusercontent.com/6d152803002dc6ad23218837402cceade15a3f4d6ae60e9b3b3b7e2ff6c72d8f/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f61646f6e69736a732f696d6167652f75706c6f61642f715f3130302f76313439373131323637382f61646f6e69732d707572706c655f707a6b6d7a742e737667" />][Adonisjs]
 [<img align="center" alt="Rails" width="40px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />][RAILS]
-[<img align="left" alt="Flutter" width="40px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />][Flutter]
-[<img align="left" alt="React Native" width="60px" height="40px" src="http://www.appcoda.com/wp-content/uploads/2015/04/react-native.png" />][ReactNative]
-[<img align="left" alt="Ionic" width="60px" height="40px" src="https://jumpgrowth.com/wp-content/uploads/2022/07/ionic.png" />][Ionic]
+[<img align="center" alt="Flutter" width="40px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />][Flutter]
+[<img align="center" alt="React Native" width="60px" height="40px" src="http://www.appcoda.com/wp-content/uploads/2015/04/react-native.png" />][ReactNative]
+[<img align="center" alt="Ionic" width="60px" height="40px" src="https://jumpgrowth.com/wp-content/uploads/2022/07/ionic.png" />][Ionic]
 <br />
 <br />
 
