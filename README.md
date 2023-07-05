@@ -118,14 +118,14 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ---
 
-### <summary>:zap: Top languages</summary>
+<!-- ### <summary>:zap: Top languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astadk&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
 
----
+--- -->
 
 ### My Contrib
 

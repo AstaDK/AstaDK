@@ -20,5 +20,5 @@ jobs:
           git config user.name AstaDK
           git config user.email asta.dev.520@gmail.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "schedule: generated contributions"
           git push
