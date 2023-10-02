@@ -5,8 +5,8 @@
 I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at <a href="https://vndigitech.com/en/">VN Digitech Solution</a>, where I sharpened my skills in building robust and innovative web solutions. Presently, I'm an enthusiastic software engineer at <a href="https://www.nustechnology.com/">NUS Technology</a>, continuously expanding my knowledge and proficiency.<p>
 If you're interested in discussing exciting development opportunities or simply want to connect with fellow developers, feel free to reach out! Let's embark on this journey of innovation and technology together. </p>
 
-<div style="display: flex; justify-content: space-between">
-  <div style="width: 60%">
+<!-- <div style="display: flex; justify-content: space-between">
+  <div style="width: 60%"> -->
 
 ### Connect with me
 
@@ -81,11 +81,11 @@ If you're interested in discussing exciting development opportunities or simply 
 <br />
 
 --- -->
-  </div>
+  <!-- </div>
   <div style="width: 50%">
     <a href="https://app.daily.dev/AstaDK"><img src="https://api.daily.dev/devcards/d2b263a10a06431fb76eb8e32666ec01.png?r=yaw" width="400" alt="Asta_DK_520's Dev Card"/></a>
   </div>
-</div>
+</div> -->
 
 ### Statistics
 <span><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astadk&layout=compact&theme=react&hide=php&langs_count=10" /></span>
