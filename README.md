@@ -2,9 +2,8 @@
 👋 Greetings! I'm Asta Nguyen 
 </h1>
 
-<p align="center"> I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at <a href="https://vndigitech.com/en/">VN Digitech Solution</a>, where I sharpened my skills in building robust and innovative web solutions. Presently, I'm an enthusiastic software engineer at <a href="https://www.nustechnology.com/">NUS Technology</a>, continuously expanding my knowledge and proficiency.<p>
-
-<p align="center"> If you're interested in discussing exciting development opportunities or simply want to connect with fellow developers, feel free to reach out! Let's embark on this journey of innovation and technology together. </p>
+I'm a versatile Full Stack Web Developer who also enjoys crafting Mobile Cross Platform applications. I've worked as Full Stack Web Developer at <a href="https://vndigitech.com/en/">VN Digitech Solution</a>, where I sharpened my skills in building robust and innovative web solutions. Presently, I'm an enthusiastic software engineer at <a href="https://www.nustechnology.com/">NUS Technology</a>, continuously expanding my knowledge and proficiency.<p>
+If you're interested in discussing exciting development opportunities or simply want to connect with fellow developers, feel free to reach out! Let's embark on this journey of innovation and technology together. </p>
 
 <div style="display: flex; justify-content: space-between">
   <div style="width: 60%">
